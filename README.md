@@ -1,22 +1,37 @@
-## Apresentação
+# Olá, sou o Diogo Leite! 👋
+
+## 📍 Apresentação
 
 - **Nome:** Diogo Leite Gomes
 - **Cidade:** Campo Grande/MS
 - **Instituição de Ensino:** UFMS - Universidade Federal de Mato Grosso do Sul
 - **Curso:** Sistemas de Informação
 - **Semestre Atual:** 6º Semestre
+- **E-mail para contato**: diogoleite09@gmail.com
+- **E-mail acadêmico**: d.leite@ufms.br
 
-<!--
-**Diogoltt/Diogoltt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Habilidades
 
-Here are some ideas to get you started:
+Tenho experiência e conhecimento nas seguintes tecnologias:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens de Programação:** 
+  - ![Python](https://img.icons8.com/color/48/000000/python.png)  
+  - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)  
+  - ![C](https://img.icons8.com/color/48/000000/c-programming.png) 
+- **Desenvolvimento Web:** 
+  - ![HTML](https://img.icons8.com/color/48/000000/html-5.png)  
+  - ![CSS](https://img.icons8.com/color/48/000000/css3.png) 
+- **Banco de Dados:** 
+  - ![PostgreSQL](https://img.icons8.com/color/48/000000/postgreesql.png)  
+- **Cloud Computing:** 
+  - ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) 
+- **Container:**
+  - ![Docker](https://img.icons8.com/color/48/000000/docker.png)
+
+## 🚀 Experiência
+
+Atualmente, sou Aprendiz em Desenvolvimento de Software na **Digix**, onde estou aprimorando minhas habilidades e adquirindo experiência prática em projetos reais. Estou me aprofundando em **C#, .NET** e **React**.
+
+---
+
+Sinta-se à vontade para explorar meus repositórios e conectar-se! Estou sempre aberto a colaborações e aprendizados. 😊
