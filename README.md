@@ -1,4 +1,10 @@
-## Hi there 👋
+## Apresentação
+
+- **Nome:** Diogo Leite Gomes
+- **Cidade:** Campo Grande/MS
+- **Instituição de Ensino:** UFMS - Universidade Federal de Mato Grosso do Sul
+- **Curso:** Sistemas de Informação
+- **Semestre Atual:** 6º Semestre
 
 <!--
 **Diogoltt/Diogoltt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
