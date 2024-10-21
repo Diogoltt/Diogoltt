@@ -7,9 +7,14 @@
 - **Instituição de Ensino:** UFMS - Universidade Federal de Mato Grosso do Sul
 - **Curso:** Sistemas de Informação
 - **Semestre Atual:** 6º Semestre
-- **E-mail para contato**: diogoleite09@gmail.com
+
+---
+## 📧Contatos
+- **LinkedIn:** [Diogo Leite](https://www.linkedin.com/in/diogoleite-) [(Clique aqui!)](https://www.linkedin.com/in/diogoleite-)
+- **E-mail principal**: diogoleite09@gmail.com
 - **E-mail acadêmico**: d.leite@ufms.br
 
+---
 ## 💻 Habilidades
 
 Tenho experiência e conhecimento nas seguintes tecnologias:
@@ -28,9 +33,11 @@ Tenho experiência e conhecimento nas seguintes tecnologias:
 - **Container:**
   - ![Docker](https://img.icons8.com/color/48/000000/docker.png)
 
+---
+
 ## 🚀 Experiência
 
-Atualmente, sou Aprendiz em Desenvolvimento de Software na **Digix**, onde estou aprimorando minhas habilidades e adquirindo experiência prática em projetos reais. Estou me aprofundando em **C#, .NET** e **React**.
+Atualmente, sou Aprendiz em Desenvolvimento de Software na **Digix**, onde estou aprimorando minhas habilidades em **C#, .NET** e **React** e adquirindo experiência prática em projetos reais.
 
 ---
 
