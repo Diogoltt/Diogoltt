@@ -6,13 +6,16 @@
 - **Cidade:** Campo Grande/MS
 - **Instituição de Ensino:** UFMS - Universidade Federal de Mato Grosso do Sul
 - **Curso:** Sistemas de Informação
-- **Semestre Atual:** 6º Semestre
+- **Semestre Atual:** 7º Semestre
 
 ---
 ## 📧Contatos
-- **LinkedIn:** [Diogo Leite](https://www.linkedin.com/in/diogoleite-) [(Clique aqui!)](https://www.linkedin.com/in/diogoleite-)
-- **E-mail principal**: diogoleite09@gmail.com
-- **E-mail acadêmico**: d.leite@ufms.br
+<a href="https://www.linkedin.com/in/diogoleite-">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+<a href="mailto:diogoleite09@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
 
 ---
 ## 💻 Habilidades
