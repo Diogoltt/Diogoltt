@@ -9,8 +9,7 @@ Oi, eu sou o Diogo!
 
 <pre>
 💻 Desenvolvedor Full-Stack
-📚 Cursando o 7º Semestre de Sistemas de Informação na UFMS -
-Univerisade Federal de Mato Grosso do Sul
+📚 Cursando o 7º Semestre de Sistemas de Informação na UFMS - Univerisade Federal de Mato Grosso do Sul
 🛠️ Desenvolvedor Trainee na <a href="https://digix.com.br/" target="_blank">Digix</a>  
 🌱 Estou me aprofundando em tecnologias .NET e Typescript/React
 🌟 Principal Stack: C# | .NET
