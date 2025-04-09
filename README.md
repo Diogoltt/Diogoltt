@@ -1,8 +1,5 @@
 <h1 align="center">
-Oi, eu sou o Diogo!
-	<a href="https://github.com/Bouaskaoun" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
+	<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Oi%2C+eu+sou+o+Diogo!" alt="Typing SVG" /></a>
 </h1>
 
 <hr>
