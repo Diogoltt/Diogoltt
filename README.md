@@ -7,7 +7,7 @@
 <pre>
 💻 Desenvolvedor Full-Stack
 📚 Cursando o 7º Semestre de Sistemas de Informação na UFMS - Universidade Federal de Mato Grosso do Sul
-🛠️ Desenvolvedor Trainee na <a href="https://digix.com.br/" target="_blank">Digix</a>  
+🛠️ Desenvolvedor na <a href="https://digix.com.br/" target="_blank">Digix</a>  
 🌱 Atualmente me aprofundando em .NET e no ecossistema TypeScript/React
 🌟 Principal Stack: C# | .NET
 </pre>
